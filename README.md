@@ -14,7 +14,7 @@ I am a Data Analyst from Russia, Rostov-on-Don.
 
 - :zap: In my free time, I complete projects and take courses.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](Nikita_Shamanow)</a>.
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Nikita_Shamanow/)</a>.
 </p>
 
 -----------
